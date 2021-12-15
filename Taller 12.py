@@ -1,5 +1,4 @@
-def simular_semiparabolico(Vo,y):
-    Yo = y
+def simular_semiparabolico(Vo,Yo):
     Xo = 0
     t = 0
     g = 9.8
